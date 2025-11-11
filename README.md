@@ -1,4 +1,4 @@
-# Movies GPT
+# GPT Based recommendation
 
 - Create React App with vite
 - Configured TailwindCSS
